@@ -1,7 +1,7 @@
 format_version: 1.0.0
 name: isovalent
 title: "Isovalent Logs"
-version: 0.1
+version: 0.0.1
 license: basic
 description: "Collect network flow and process visibility logs from Isovalent Enterprise with Elastic Agent."
 type: integration
